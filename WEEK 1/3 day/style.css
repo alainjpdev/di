@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  border: 5px solid red;
+  background-color: ;
+  height: 600px;
+}
+
+.flex-container div{
+  background-color: lightblue;
+  width:100%;
+  margin:10px;
+  text-align: center;
+  align-items: center;
+  line-height: 75px;
+  font-size: 40px;
+  color:white;
+  font-weight: bold;
+
+
+}
+
+
+
